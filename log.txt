@@ -1,0 +1,140 @@
+**********SONG INFO*********
+0
+song name: Die A Happy Man
+preview song: null
+album: Tangled Up
+artist(s): Thomas Rhett
+*****************************
+**********SONG INFO*********
+1
+song name: Happy Now
+preview song: https://p.scdn.co/mp3-preview/a2c9677593d52774f89c7d2dd2e810ba4faac01c?cid=169100843e52459b95f398ad93b340bf
+album: Happy Now
+artist(s): Kygo
+*****************************
+**********SONG INFO*********
+2
+song name: Happy Now
+preview song: null
+album: Happy Now
+artist(s): Zedd
+*****************************
+**********SONG INFO*********
+3
+song name: Tongue Tied
+preview song: https://p.scdn.co/mp3-preview/2147e7bd8762aa4f7f1ce38ba02cfa618c530758?cid=169100843e52459b95f398ad93b340bf
+album: Never Trust A Happy Song
+artist(s): Grouplove
+*****************************
+**********SONG INFO*********
+4
+song name: Written in the Sand
+preview song: https://p.scdn.co/mp3-preview/359e57ee6223012c21e12eeb5ad310a72cfb8cd3?cid=169100843e52459b95f398ad93b340bf
+album: Happy Endings
+artist(s): Old Dominion
+*****************************
+**********SONG INFO*********
+5
+song name: Happy Together
+preview song: https://p.scdn.co/mp3-preview/be70befd16aac0ed18e1bab29513f5d84188415c?cid=169100843e52459b95f398ad93b340bf
+album: Happy Together
+artist(s): The Turtles
+*****************************
+**********SONG INFO*********
+6
+song name: Happy - From "Despicable Me 2"
+preview song: https://p.scdn.co/mp3-preview/67cffdcb7e3c82a5eb2e5f0bb235d377ccc94eeb?cid=169100843e52459b95f398ad93b340bf
+album: G I R L
+artist(s): Pharrell Williams
+*****************************
+**********SONG INFO*********
+7
+song name: Happy?
+preview song: https://p.scdn.co/mp3-preview/a4972554181a20b1c1b259666f1a5955d526d91e?cid=169100843e52459b95f398ad93b340bf
+album: Lost and Found
+artist(s): Mudvayne
+*****************************
+**********SONG INFO*********
+8
+song name: Hotel Key
+preview song: https://p.scdn.co/mp3-preview/9846ea6520f40b1fe001f884fcae59a7467329fa?cid=169100843e52459b95f398ad93b340bf
+album: Happy Endings
+artist(s): Old Dominion
+*****************************
+**********SONG INFO*********
+9
+song name: Happy When I'm Sad
+preview song: null
+album: Happiness Begins
+artist(s): Jonas Brothers
+*****************************
+**********SONG INFO*********
+10
+song name: Happy Days
+preview song: https://p.scdn.co/mp3-preview/34ec901467254c341c14413a7a2564e802a9c1c7?cid=169100843e52459b95f398ad93b340bf
+album: Darkside
+artist(s): blink-182
+*****************************
+**********SONG INFO*********
+11
+song name: No Such Thing as a Broken Heart
+preview song: https://p.scdn.co/mp3-preview/a4f06f6466519e35acb54d9a8e84a15379389174?cid=169100843e52459b95f398ad93b340bf
+album: Happy Endings
+artist(s): Old Dominion
+*****************************
+**********SONG INFO*********
+12
+song name: Happy & Sad
+preview song: null
+album: Golden Hour
+artist(s): Kacey Musgraves
+*****************************
+**********SONG INFO*********
+13
+song name: Don't Worry Be Happy
+preview song: null
+album: Simple Pleasures
+artist(s): Bobby McFerrin
+*****************************
+**********SONG INFO*********
+14
+song name: It Wasn't Easy To Be Happy For You
+preview song: https://p.scdn.co/mp3-preview/b0d6157bdaac819e11bc6323514279ee3de67f94?cid=169100843e52459b95f398ad93b340bf
+album: It Wasn't Easy To Be Happy For You
+artist(s): The Lumineers
+*****************************
+**********SONG INFO*********
+15
+song name: Happy Birthday
+preview song: null
+album: Birthday Tunes
+artist(s): Stevie Wonder
+*****************************
+**********SONG INFO*********
+16
+song name: Fake Happy
+preview song: https://p.scdn.co/mp3-preview/62dbd4df9d5a3bce321f79073954bcc9fbb6b2f7?cid=169100843e52459b95f398ad93b340bf
+album: After Laughter
+artist(s): Paramore
+*****************************
+**********SONG INFO*********
+17
+song name: Happy Pills
+preview song: https://p.scdn.co/mp3-preview/70f0decc2f0fa4924ef4d0c68026789f2676f47c?cid=169100843e52459b95f398ad93b340bf
+album: Happy Pills
+artist(s): Weathers
+*****************************
+**********SONG INFO*********
+18
+song name: Die Happy
+preview song: null
+album: LAUNCH FLY LAND
+artist(s): DREAMERS
+*****************************
+**********SONG INFO*********
+19
+song name: Ratchet Happy Birthday
+preview song: null
+album: Scorpion
+artist(s): Drake
+*****************************

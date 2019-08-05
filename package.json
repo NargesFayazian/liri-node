@@ -1,0 +1,26 @@
+{
+  "name": "liri-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "liri.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nargesfamili/liri-node.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nargesfamili/liri-node/issues"
+  },
+  "homepage": "https://github.com/nargesfamili/liri-node#readme",
+  "dependencies": {
+    "dotenv": "^8.0.0",
+    "env": "0.0.2",
+    "node-spotify-api": "^1.1.1",
+    "request": "^2.88.0"
+  }
+}
